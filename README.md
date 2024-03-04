@@ -39,6 +39,12 @@
 
   In Proceedings of the IEEE/CVF International Conference on Computer Vision (2021).
 
+* Chong X, Cheng M, Fan W, et al.
+
+  [M-Denoiser: Unsupervised image denoising for real-world optical and electron microscopy data](https://www.sciencedirect.com/science/article/pii/S0010482523007734?casa_token=SXPYXr8_BtcAAAAA:bWa27RNb2uFJW1lZqLrPyDvX1njVJ0OsL07JHg7CNn0Ip_WsabGZeX6EAbbEV2c9quMsjIBl)
+
+  Computers in Biology and Medicine (2023)
+
 ### Pre-trained & fine-tuning
 * Mohan S, Vincent J L, Manzorro R, et al.
 
