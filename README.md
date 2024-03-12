@@ -12,6 +12,12 @@
 
   Journal of structural biology (2003).
 
+* Roels J, Vernaillen F, Kremer A, et al.
+
+  [An interactive ImageJ plugin for semi-automated image denoising in electron microscopy](https://www.nature.com/articles/s41467-020-14529-0)
+
+  Nature communications (2020)
+
 ## Deep learning-based denoising methods
 
 ### Supervised
