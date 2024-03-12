@@ -53,3 +53,10 @@
   Advances in neural information processing systems (2021).
 
 # Review papers
+
+# Thesis
+* Xiaoya CHONG,
+
+  [Deep Learning of Noise-Invariant Representations for Microscopy Data in Computational Biology](https://scholars.cityu.edu.hk/en/theses/deep-learning-of-noiseinvariant-representations-for-microscopy-data-in-computational-biology(2f84c30c-e7db-4740-acbb-26498534f5e7).html)
+
+  Ph.D. Thesis, City University of Hong Kong, 2023. [PDF](https://lbms03.cityu.edu.hk/theses/c_ftt/phd-cs-164352991.pdf)
